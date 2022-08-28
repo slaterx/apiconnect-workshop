@@ -3,16 +3,12 @@
 ## Introduction
 IBM API Connect is an integrated API management offering, with capabilities and tooling for all phases of the API lifecycle. Key steps of the API lifecycle include create, secure, manage, socialize, and analyze.
 
-[Return to Integration page](../index.md#lab-sections)
-
 These lab exercises will walk you through designing, publishing, and securing APIs.
 
 IBM API Connect has several out of the box personas. Some of these personas will be used in the context of these labs.  The [IBM API Connect V10.x Deployment WhitePaper](https://community.ibm.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=21e9c4e0-f733-c7b1-3267-b1a604ebb0e1&forceDialog=0) has more detail.
 
 **Personas in IBM API Connect**:
 ![alt text](images/personas.png)
-
-[Return to Integration page](../index.md#lab-sections)
 
 ## Lab Abstracts
 
